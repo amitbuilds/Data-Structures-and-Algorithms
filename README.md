@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/amitbuilds/CODE/tree/master/0110-balanced-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/amitbuilds/CODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/amitbuilds/CODE/tree/master/0110-balanced-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/amitbuilds/CODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## String
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/amitbuilds/CODE/tree/master/0047-permutations-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/amitbuilds/CODE/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
