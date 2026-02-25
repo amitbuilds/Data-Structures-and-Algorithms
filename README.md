@@ -131,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/amitbuilds/CODE/tree/master/0175-combine-two-tables) |
+| [1729-find-followers-count](https://github.com/amitbuilds/CODE/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
