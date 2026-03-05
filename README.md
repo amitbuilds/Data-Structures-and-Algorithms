@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/amitbuilds/CODE/tree/master/0175-combine-two-tables) |
+| [1148-article-views-i](https://github.com/amitbuilds/CODE/tree/main/1148-article-views-i/) | Easy |
 | [1729-find-followers-count](https://github.com/amitbuilds/CODE/tree/master/1729-find-followers-count) |
 ## Recursion
 | Problem Name | Difficulty |
