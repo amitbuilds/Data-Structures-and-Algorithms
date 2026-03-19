@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/amitbuilds/CODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amitbuilds/CODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/amitbuilds/CODE/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amitbuilds/CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amitbuilds/CODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/amitbuilds/CODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3433-count-mentions-per-user](https://github.com/amitbuilds/CODE/tree/master/3433-count-mentions-per-user) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amitbuilds/CODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/amitbuilds/CODE/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amitbuilds/CODE/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amitbuilds/CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/amitbuilds/CODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/amitbuilds/CODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Tree
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amitbuilds/CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amitbuilds/CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amitbuilds/CODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amitbuilds/CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
