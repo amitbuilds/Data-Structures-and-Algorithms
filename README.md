@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/amitbuilds/CODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3433-count-mentions-per-user](https://github.com/amitbuilds/CODE/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/amitbuilds/CODE/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/amitbuilds/CODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/amitbuilds/CODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3606-coupon-code-validator](https://github.com/amitbuilds/CODE/tree/master/3606-coupon-code-validator) |
 ## Hash Table
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/amitbuilds/CODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/amitbuilds/CODE/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/amitbuilds/CODE/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/amitbuilds/CODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3606-coupon-code-validator](https://github.com/amitbuilds/CODE/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amitbuilds/CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amitbuilds/CODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amitbuilds/CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/amitbuilds/CODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
