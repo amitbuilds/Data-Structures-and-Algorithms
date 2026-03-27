@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/amitbuilds/CODE/tree/main/0183-customers-who-never-order/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/amitbuilds/CODE/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/amitbuilds/CODE/tree/main/1148-article-views-i/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/amitbuilds/CODE/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1341-movie-rating](https://github.com/amitbuilds/CODE/tree/main/1341-movie-rating/) | Medium |
 | [1729-find-followers-count](https://github.com/amitbuilds/CODE/tree/master/1729-find-followers-count) |
 ## Recursion
