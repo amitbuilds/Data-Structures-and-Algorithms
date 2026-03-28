@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amitbuilds/CODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amitbuilds/CODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/amitbuilds/CODE/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2573-find-the-string-with-lcp](https://github.com/amitbuilds/CODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/amitbuilds/CODE/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amitbuilds/CODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amitbuilds/CODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amitbuilds/CODE/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/amitbuilds/CODE/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/amitbuilds/CODE/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/amitbuilds/CODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3606-coupon-code-validator](https://github.com/amitbuilds/CODE/tree/master/3606-coupon-code-validator) |
 ## Counting
 | Problem Name | Difficulty |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/amitbuilds/CODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amitbuilds/CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/amitbuilds/CODE/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2573-find-the-string-with-lcp](https://github.com/amitbuilds/CODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3075-maximize-happiness-of-selected-children](https://github.com/amitbuilds/CODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amitbuilds/CODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Sorting
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amitbuilds/CODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amitbuilds/CODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/amitbuilds/CODE/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/amitbuilds/CODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/amitbuilds/CODE/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amitbuilds/CODE/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/amitbuilds/CODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amitbuilds/CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amitbuilds/CODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amitbuilds/CODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2573-find-the-string-with-lcp](https://github.com/amitbuilds/CODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/amitbuilds/CODE/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amitbuilds/CODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amitbuilds/CODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -216,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/amitbuilds/CODE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/amitbuilds/CODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 <!---LeetCode Topics End-->
