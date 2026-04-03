@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/amitbuilds/CODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3606-coupon-code-validator](https://github.com/amitbuilds/CODE/tree/master/3606-coupon-code-validator) |
 | [3643-flip-square-submatrix-vertically](https://github.com/amitbuilds/CODE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/amitbuilds/CODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/amitbuilds/CODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amitbuilds/CODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/amitbuilds/CODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/amitbuilds/CODE/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/amitbuilds/CODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3606-coupon-code-validator](https://github.com/amitbuilds/CODE/tree/master/3606-coupon-code-validator) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/amitbuilds/CODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amitbuilds/CODE/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amitbuilds/CODE/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/amitbuilds/CODE/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/amitbuilds/CODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
