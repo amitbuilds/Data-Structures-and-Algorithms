@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/amitbuilds/CODE/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/amitbuilds/CODE/tree/master/0047-permutations-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amitbuilds/CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amitbuilds/CODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/amitbuilds/CODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amitbuilds/CODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amitbuilds/CODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/amitbuilds/CODE/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amitbuilds/CODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amitbuilds/CODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amitbuilds/CODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/amitbuilds/CODE/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
