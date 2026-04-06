@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/amitbuilds/CODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amitbuilds/CODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amitbuilds/CODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0997-find-the-town-judge](https://github.com/amitbuilds/CODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amitbuilds/CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amitbuilds/CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amitbuilds/CODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amitbuilds/CODE/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/amitbuilds/CODE/tree/master/0036-valid-sudoku) |
 | [0299-bulls-and-cows](https://github.com/amitbuilds/CODE/tree/master/0299-bulls-and-cows) |
+| [0997-find-the-town-judge](https://github.com/amitbuilds/CODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amitbuilds/CODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/amitbuilds/CODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/amitbuilds/CODE/tree/master/3531-count-covered-buildings) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/amitbuilds/CODE/tree/master/3474-lexicographically-smallest-generated-string) |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/amitbuilds/CODE/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
