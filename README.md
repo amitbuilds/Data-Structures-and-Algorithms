@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/amitbuilds/CODE/tree/master/3606-coupon-code-validator) |
 | [3643-flip-square-submatrix-vertically](https://github.com/amitbuilds/CODE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/amitbuilds/CODE/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/amitbuilds/CODE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/amitbuilds/CODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/amitbuilds/CODE/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/amitbuilds/CODE/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/amitbuilds/CODE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
