@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/amitbuilds/CODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amitbuilds/CODE/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/amitbuilds/CODE/tree/master/3433-count-mentions-per-user) |
+| [3488-closest-equal-element-queries](https://github.com/amitbuilds/CODE/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/amitbuilds/CODE/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/amitbuilds/CODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/amitbuilds/CODE/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/amitbuilds/CODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amitbuilds/CODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/amitbuilds/CODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3488-closest-equal-element-queries](https://github.com/amitbuilds/CODE/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/amitbuilds/CODE/tree/master/3531-count-covered-buildings) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/amitbuilds/CODE/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3606-coupon-code-validator](https://github.com/amitbuilds/CODE/tree/master/3606-coupon-code-validator) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/amitbuilds/CODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amitbuilds/CODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/amitbuilds/CODE/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/amitbuilds/CODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
