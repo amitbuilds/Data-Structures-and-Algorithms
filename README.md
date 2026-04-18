@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amitbuilds/CODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amitbuilds/CODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/amitbuilds/CODE/tree/master/3433-count-mentions-per-user) |
+| [3783-mirror-distance-of-an-integer](https://github.com/amitbuilds/CODE/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
