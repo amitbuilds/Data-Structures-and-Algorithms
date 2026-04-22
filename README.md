@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/amitbuilds/CODE/tree/main/0089-gray-code/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/amitbuilds/CODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/amitbuilds/CODE/tree/main/1622-fancy-sequence/) | Hard |
 | [1925-count-square-sum-triples](https://github.com/amitbuilds/CODE/tree/master/1925-count-square-sum-triples) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/amitbuilds/CODE/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/amitbuilds/CODE/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/amitbuilds/CODE/tree/main/0089-gray-code/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amitbuilds/CODE/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/amitbuilds/CODE/tree/main/0089-gray-code/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/amitbuilds/CODE/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
