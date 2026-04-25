@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amitbuilds/CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitbuilds/CODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amitbuilds/CODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0682-baseball-game](https://github.com/amitbuilds/CODE/tree/main/0682-baseball-game/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/amitbuilds/CODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amitbuilds/CODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amitbuilds/CODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/amitbuilds/CODE/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/amitbuilds/CODE/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/amitbuilds/CODE/tree/main/0844-backspace-string-compare/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/amitbuilds/CODE/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/amitbuilds/CODE/tree/main/2069-walking-robot-simulation-ii/) | Medium |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/amitbuilds/CODE/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/amitbuilds/CODE/tree/main/0844-backspace-string-compare/) | Easy |
 | [2751-robot-collisions](https://github.com/amitbuilds/CODE/tree/main/2751-robot-collisions/) | Hard |
 ## String Matching
