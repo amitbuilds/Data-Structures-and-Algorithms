@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amitbuilds/CODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amitbuilds/CODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amitbuilds/CODE/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1544-make-the-string-great](https://github.com/amitbuilds/CODE/tree/main/1544-make-the-string-great/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/amitbuilds/CODE/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amitbuilds/CODE/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/amitbuilds/CODE/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/amitbuilds/CODE/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/amitbuilds/CODE/tree/main/0844-backspace-string-compare/) | Easy |
+| [1544-make-the-string-great](https://github.com/amitbuilds/CODE/tree/main/1544-make-the-string-great/) | Easy |
 | [2751-robot-collisions](https://github.com/amitbuilds/CODE/tree/main/2751-robot-collisions/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
