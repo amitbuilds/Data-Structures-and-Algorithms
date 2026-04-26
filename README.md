@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amitbuilds/CODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0997-find-the-town-judge](https://github.com/amitbuilds/CODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amitbuilds/CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/amitbuilds/CODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amitbuilds/CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amitbuilds/CODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/amitbuilds/CODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/amitbuilds/CODE/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amitbuilds/CODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/amitbuilds/CODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/amitbuilds/CODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/amitbuilds/CODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## String
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/amitbuilds/CODE/tree/master/0036-valid-sudoku) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amitbuilds/CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/amitbuilds/CODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amitbuilds/CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amitbuilds/CODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amitbuilds/CODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/amitbuilds/CODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/amitbuilds/CODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/amitbuilds/CODE/tree/master/2573-find-the-string-with-lcp) |
 ## Stack
@@ -312,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/amitbuilds/CODE/tree/main/0997-find-the-town-judge/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/amitbuilds/CODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
