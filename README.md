@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/amitbuilds/CODE/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/amitbuilds/CODE/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/amitbuilds/CODE/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/amitbuilds/CODE/tree/main/0844-backspace-string-compare/) | Easy |
 | [1544-make-the-string-great](https://github.com/amitbuilds/CODE/tree/main/1544-make-the-string-great/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/amitbuilds/CODE/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/amitbuilds/CODE/tree/main/2751-robot-collisions/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
@@ -326,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amitbuilds/CODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amitbuilds/CODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/amitbuilds/CODE/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/amitbuilds/CODE/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
