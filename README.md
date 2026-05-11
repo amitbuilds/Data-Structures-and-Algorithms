@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/amitbuilds/CODE/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/amitbuilds/CODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2463-minimum-total-distance-traveled](https://github.com/amitbuilds/CODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2553-separate-the-digits-in-an-array](https://github.com/amitbuilds/CODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/amitbuilds/CODE/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/amitbuilds/CODE/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/amitbuilds/CODE/tree/main/2751-robot-collisions/) | Hard |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/amitbuilds/CODE/tree/main/0844-backspace-string-compare/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/amitbuilds/CODE/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/amitbuilds/CODE/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/amitbuilds/CODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/amitbuilds/CODE/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amitbuilds/CODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/amitbuilds/CODE/tree/master/3433-count-mentions-per-user) |
