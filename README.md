@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/amitbuilds/CODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amitbuilds/CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amitbuilds/CODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/amitbuilds/CODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/amitbuilds/CODE/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/amitbuilds/CODE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/amitbuilds/CODE/tree/main/1861-rotating-the-box/) | Medium |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/amitbuilds/CODE/tree/master/0036-valid-sudoku) |
 | [0299-bulls-and-cows](https://github.com/amitbuilds/CODE/tree/master/0299-bulls-and-cows) |
 | [0997-find-the-town-judge](https://github.com/amitbuilds/CODE/tree/main/0997-find-the-town-judge/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/amitbuilds/CODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/amitbuilds/CODE/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amitbuilds/CODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/amitbuilds/CODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/amitbuilds/CODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/amitbuilds/CODE/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/amitbuilds/CODE/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amitbuilds/CODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
