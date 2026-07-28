@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/amitbuilds/CODE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/amitbuilds/CODE/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/amitbuilds/CODE/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/amitbuilds/CODE/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/amitbuilds/CODE/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amitbuilds/CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitbuilds/CODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/amitbuilds/CODE/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/amitbuilds/CODE/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/amitbuilds/CODE/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitbuilds/CODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amitbuilds/CODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amitbuilds/CODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/amitbuilds/CODE/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/amitbuilds/CODE/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/amitbuilds/CODE/tree/main/0064-minimum-path-sum/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amitbuilds/CODE/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amitbuilds/CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amitbuilds/CODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
