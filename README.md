@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/amitbuilds/CODE/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/amitbuilds/CODE/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/amitbuilds/CODE/tree/main/0058-length-of-last-word/) | Easy |
 | [0299-bulls-and-cows](https://github.com/amitbuilds/CODE/tree/master/0299-bulls-and-cows) |
 | [0657-robot-return-to-origin](https://github.com/amitbuilds/CODE/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/amitbuilds/CODE/tree/main/0844-backspace-string-compare/) | Easy |
