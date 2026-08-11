@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/amitbuilds/CODE/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitbuilds/CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1201-ugly-number-iii](https://github.com/amitbuilds/CODE/tree/main/1201-ugly-number-iii/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/amitbuilds/CODE/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/amitbuilds/CODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/amitbuilds/CODE/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/amitbuilds/CODE/tree/main/0069-sqrtx/) | Easy |
 | [0089-gray-code](https://github.com/amitbuilds/CODE/tree/main/0089-gray-code/) | Medium |
 | [1201-ugly-number-iii](https://github.com/amitbuilds/CODE/tree/main/1201-ugly-number-iii/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/amitbuilds/CODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -374,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1201-ugly-number-iii](https://github.com/amitbuilds/CODE/tree/main/1201-ugly-number-iii/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/amitbuilds/CODE/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
