@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitbuilds/CODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amitbuilds/CODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitbuilds/CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amitbuilds/CODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0682-baseball-game](https://github.com/amitbuilds/CODE/tree/main/0682-baseball-game/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/amitbuilds/CODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amitbuilds/CODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/amitbuilds/CODE/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amitbuilds/CODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitbuilds/CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amitbuilds/CODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1201-ugly-number-iii](https://github.com/amitbuilds/CODE/tree/main/1201-ugly-number-iii/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/amitbuilds/CODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amitbuilds/CODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
