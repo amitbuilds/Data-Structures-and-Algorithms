@@ -1,12 +1,20 @@
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
-        for(int i  = 0 ; i < nums.size(); i++){
-            if(nums[i]==target){
-                return true;
-
-            }
+    sort(nums.begin(),nums.end());
+    int st = 0 ;
+    int end = nums.size() - 1;
+    while(st<=end){
+        int mid = (st+end)/2;
+        if(nums[mid]==target){
+            return true;
         }
+        else if(nums[mid]>target){
+            end = mid - 1;
+        }else{
+            st = mid + 1;
+        }
+    }
     return false;
     }
 };
