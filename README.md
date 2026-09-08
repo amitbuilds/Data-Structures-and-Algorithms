@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amitbuilds/CODE/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/amitbuilds/CODE/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/amitbuilds/CODE/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/amitbuilds/CODE/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/amitbuilds/CODE/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/amitbuilds/CODE/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amitbuilds/CODE/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amitbuilds/CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/amitbuilds/CODE/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/amitbuilds/CODE/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/amitbuilds/CODE/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/amitbuilds/CODE/tree/master/2573-find-the-string-with-lcp) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/amitbuilds/CODE/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amitbuilds/CODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/amitbuilds/CODE/tree/master/1925-count-square-sum-triples) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/amitbuilds/CODE/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/amitbuilds/CODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/amitbuilds/CODE/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Simulation
