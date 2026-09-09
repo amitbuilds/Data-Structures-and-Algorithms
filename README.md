@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amitbuilds/CODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitbuilds/CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amitbuilds/CODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0506-relative-ranks](https://github.com/amitbuilds/CODE/tree/main/0506-relative-ranks/) | Easy |
 | [0682-baseball-game](https://github.com/amitbuilds/CODE/tree/main/0682-baseball-game/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/amitbuilds/CODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amitbuilds/CODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/amitbuilds/CODE/tree/master/0047-permutations-ii) |
+| [0506-relative-ranks](https://github.com/amitbuilds/CODE/tree/main/0506-relative-ranks/) | Easy |
 | [1383-maximum-performance-of-a-team](https://github.com/amitbuilds/CODE/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [2141-maximum-running-time-of-n-computers](https://github.com/amitbuilds/CODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2463-minimum-total-distance-traveled](https://github.com/amitbuilds/CODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0506-relative-ranks](https://github.com/amitbuilds/CODE/tree/main/0506-relative-ranks/) | Easy |
 | [1383-maximum-performance-of-a-team](https://github.com/amitbuilds/CODE/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amitbuilds/CODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Design
