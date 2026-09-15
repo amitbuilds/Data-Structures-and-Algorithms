@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amitbuilds/CODE/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/amitbuilds/CODE/tree/master/0036-valid-sudoku) |
+| [0205-isomorphic-strings](https://github.com/amitbuilds/CODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0299-bulls-and-cows](https://github.com/amitbuilds/CODE/tree/master/0299-bulls-and-cows) |
 | [0997-find-the-town-judge](https://github.com/amitbuilds/CODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/amitbuilds/CODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/amitbuilds/CODE/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/amitbuilds/CODE/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/amitbuilds/CODE/tree/main/0058-length-of-last-word/) | Easy |
+| [0205-isomorphic-strings](https://github.com/amitbuilds/CODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0299-bulls-and-cows](https://github.com/amitbuilds/CODE/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/amitbuilds/CODE/tree/main/0402-remove-k-digits/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/amitbuilds/CODE/tree/main/0657-robot-return-to-origin/) | Easy |
