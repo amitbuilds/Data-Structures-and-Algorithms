@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/amitbuilds/CODE/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/amitbuilds/CODE/tree/main/0176-second-highest-salary/) | Medium |
 | [0183-customers-who-never-order](https://github.com/amitbuilds/CODE/tree/main/0183-customers-who-never-order/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/amitbuilds/CODE/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/amitbuilds/CODE/tree/main/1148-article-views-i/) | Easy |
